@@ -36,6 +36,24 @@
       "instalado": false,
       "caminhoExecutavel": ""
     },
+     {
+      "nome": "NINJA GAIDEN: Ragebound",
+      "imagem": "file:///C:/path/to/digger_image.png",
+      "descricao": "Uma aventura no espaço onde você desbrava planetas.",
+      "preco": "R$ 49,99",
+      "lancamento": "2025-07-01",
+      "especificacoes": [
+        "Requer Windows 7 ou superior",
+        "4GB de RAM",
+        "DirectX 10"
+      ],
+      "funcionalidades": [
+        "Modo Co-op",
+        "Jogabilidade de exploração"
+      ],
+      "instalado": false,
+      "caminhoExecutavel": ""
+    },
     {
       "nome": "Fretless - The Wrath of Riffson",
       "imagem": "file:///C:/path/to/digger_image.png",
