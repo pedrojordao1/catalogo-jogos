@@ -20,9 +20,9 @@
     },
     {
       "nome": "Monument Valley 3",
-      "imagem": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8v8p.jpg",
-      "descricao": "Uma aventura no espaço onde você desbrava planetas.",
-      "preco": "R$ 49,99",
+      "imagem": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8zis.jpg",
+      "descricao": "Uma aventura no espaço onde você desbrava planetas TESTE.",
+      "preco": "R$ 1000,99",
       "lancamento": "2025-07-01",
       "especificacoes": [
         "Requer Windows 7 ou superior",
