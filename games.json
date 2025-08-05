@@ -72,6 +72,24 @@
       "instalado": false,
       "caminhoExecutavel": ""
     },
+     {
+      "nome": "Marvel's Spider-Man 2",
+      "imagem": "https://images.igdb.com/igdb/image/upload/t_cover_big/co79vq.jpg",
+      "descricao": "spiderman 2 conta hitoria de tal tal tal.",
+      "preco": "R$ 49,99",
+      "lancamento": "2025-07-01",
+      "especificacoes": [
+        "Requer Windows 7 ou superior",
+        "4GB de RAM",
+        "DirectX 10"
+      ],
+      "funcionalidades": [
+        "Modo Co-op",
+        "Jogabilidade de exploração"
+      ],
+      "instalado": false,
+      "caminhoExecutavel": ""
+    },
     {
       "nome": "Fretless - The Wrath of Riffson",
       "imagem": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa50q.jpg",
