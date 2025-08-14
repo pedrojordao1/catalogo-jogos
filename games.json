@@ -1,98 +1,99 @@
 {
   "games": [
     {
-            "Nome": "Black",
-            "Descrição": "Black takes place in Chechnya (Southern Russia). The protagonist is a black ops soldier named Sergeant First Class Jack Kellar (portrayed by Marty Papazian). Kellar tells most of the story in first-person at an interrogation four days after the events in the story begin.\n\nKellar is an inadequately disciplined member of a CIA black ops group and a veteran of several conflicts including Guatemala, Colombia, Iran and Croatia. The unknown interrogator (portrayed by Paul Pape) questions Kellar about an arms smuggling and terrorist operation called the Seventh Wave. Seventh Wave have been responsible for a number of terrorist attacks. Kellar is told that, unless he co-operates, he and his actions will be declassified, he will be dishonorably discharged and imprisoned for life. Though initially resistant, Kellar at last agrees to tell his story.",
-            "Data de Lançamento": "24/02/2006",
-            "Capa": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8c32.jpg",
-            "Capturas de Tela": [
-                "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9fw3.jpg",
-                "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9fw4.jpg",
-                "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9fw5.jpg",
-                "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9fw6.jpg"
-            ],
-            "Vídeo (Embed)": "https://www.youtube.com/embed/G_FeNewtM_I?autoplay=1&mute=1&loop=1",
-            "Plataformas": [
-                "Xbox",
-                "PlayStation 2"
-            ],
-            "Gêneros": [
-                "Shooter"
-            ],
-            "Modos de Jogo": [
-                "Single player"
-            ],
-            "Desenvolvedores": [
-                "Criterion Games"
-            ],
-            "Editoras": [
-                "Electronic Arts"
-            ],
-            "Avaliação (Crítica)": 70.75,
-            "Nº de Críticas": 4,
-            "Avaliação (Usuário)": 78.24287859967636,
-            "Nº de Votos": 94,
-            "Perspectivas": [
-                "First person"
-            ],
-            "Keywords": [
-                "modern warfare",
-                "cold war",
-                "death",
-                "military",
-                "run and gun",
-                "counter-terrorists",
-                "war",
-                "crime",
-                "level selection",
-                "no jumping",
-                "one-man army",
-                "explosion",
-                "throwing weapons",
-                "modern military",
-                "voice acting",
-                "polygonal 3d",
-                "full motion video",
-                "original soundtrack release",
-                "unlockables",
-                "motion blur",
-                "profanity",
-                "sniping",
-                "checkpoints",
-                "auto-aim",
-                "melee",
-                "auto-saving",
-                "a.i. companion",
-                "infinite ammo",
-                "friendly fire",
-                "difficulty level",
-                "destructible environment",
-                "squad",
-                "nuclear bomb",
-                "xbox one backwards compatibility",
-                "development hell",
-                "games on demand",
-                "weapons swap",
-                "unskippable cutscene",
-                "not-so-bad guys",
-                "linear gameplay",
-                "flashback",
-                "scripted events",
-                "new game plus",
-                "fully customizable controls",
-                "swarming enemies",
-                "environment as weapons",
-                "greatest hits",
-                "renderware",
-                "easy mode",
-                "no blood",
-                "xbox 360 backwards compatibility"
-            ],
-            "Temas": [
-                "Action",
-                "Stealth"
-            ],
-            "instalado": false,
-            "caminhoExecutavel": ""
-        }
-]
+      "nome": "Black",
+      "descricao": "Black takes place in Chechnya (Southern Russia). The protagonist is a black ops soldier named Sergeant First Class Jack Kellar (portrayed by Marty Papazian). Kellar tells most of the story in first-person at an interrogation four days after the events in the story begin.\n\nKellar is an inadequately disciplined member of a CIA black ops group and a veteran of several conflicts including Guatemala, Colombia, Iran and Croatia. The unknown interrogator (portrayed by Paul Pape) questions Kellar about an arms smuggling and terrorist operation called the Seventh Wave. Seventh Wave have been responsible for a number of terrorist attacks. Kellar is told that, unless he co-operates, he and his actions will be declassified, he will be dishonorably discharged and imprisoned for life. Though initially resistant, Kellar at last agrees to tell his story.",
+      "dataDeLancamento": "24/02/2006",
+      "capa": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8c32.jpg",
+      "capturasDeTela": [
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9fw3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9fw4.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9fw5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc9fw6.jpg"
+      ],
+      "videoEmbed": "https://www.youtube.com/embed/G_FeNewtM_I?autoplay=1&mute=1&loop=1",
+      "plataformas": [
+        "Xbox",
+        "PlayStation 2"
+      ],
+      "generos": [
+        "Shooter"
+      ],
+      "modosDeJogo": [
+        "Single player"
+      ],
+      "desenvolvedores": [
+        "Criterion Games"
+      ],
+      "editoras": [
+        "Electronic Arts"
+      ],
+      "avaliacaoCritica": 70.75,
+      "numeroDeCriticas": 4,
+      "avaliacaoUsuario": 78.24,
+      "numeroDeVotos": 94,
+      "perspectivas": [
+        "First person"
+      ],
+      "keywords": [
+        "modern warfare",
+        "cold war",
+        "death",
+        "military",
+        "run and gun",
+        "counter-terrorists",
+        "war",
+        "crime",
+        "level selection",
+        "no jumping",
+        "one-man army",
+        "explosion",
+        "throwing weapons",
+        "modern military",
+        "voice acting",
+        "polygonal 3d",
+        "full motion video",
+        "original soundtrack release",
+        "unlockables",
+        "motion blur",
+        "profanity",
+        "sniping",
+        "checkpoints",
+        "auto-aim",
+        "melee",
+        "auto-saving",
+        "a.i. companion",
+        "infinite ammo",
+        "friendly fire",
+        "difficulty level",
+        "destructible environment",
+        "squad",
+        "nuclear bomb",
+        "xbox one backwards compatibility",
+        "development hell",
+        "games on demand",
+        "weapons swap",
+        "unskippable cutscene",
+        "not-so-bad guys",
+        "linear gameplay",
+        "flashback",
+        "scripted events",
+        "new game plus",
+        "fully customizable controls",
+        "swarming enemies",
+        "environment as weapons",
+        "greatest hits",
+        "renderware",
+        "easy mode",
+        "no blood",
+        "xbox 360 backwards compatibility"
+      ],
+      "temas": [
+        "Action",
+        "Stealth"
+      ],
+      "instalado": false,
+      "caminhoExecutavel": ""
+    }
+  ]
+}
