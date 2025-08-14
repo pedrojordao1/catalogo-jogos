@@ -1,96 +1,6 @@
 {
   "games": [
     {
-      "nome": "Monument Valley 3",
-      "imagem": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1taw.jpg",
-      "descricao": "Uma aventura no espaço onde você desbrava planetas IRINEU IRINEUSON.",
-      "preco": "R$ 1000,99",
-      "lancamento": "2025-07-01",
-      "especificacoes": [
-        "Requer Windows que seu PC seja uma nave!",
-        "4GB de RAM",
-        "DirectX 10"
-      ],
-      "funcionalidades": [
-        "Modo Co-op",
-        "Jogabilidade de exploração"
-      ],
-      "instalado": false,
-      "caminhoExecutavel": ""
-    },
-    {
-      "nome": "NINJA GAIDEN - Ragebound",
-      "imagem": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9qrg.jpg",
-      "descricao": "Uma aventura no espaço onde você desbrava planetas.",
-      "preco": "R$ 49,99",
-      "lancamento": "2025-07-01",
-      "especificacoes": [
-        "Requer Windows 7 ou superior",
-        "4GB de RAM",
-        "DirectX 10"
-      ],
-      "funcionalidades": [
-        "Modo Co-op",
-        "Jogabilidade de exploração"
-      ],
-      "instalado": false,
-      "caminhoExecutavel": ""
-    },
-    {
-      "nome": "CoD - Black Ops 6",
-      "imagem": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8zis.jpg",
-      "descricao": "Uma aventura no espaço onde você desbrava planetas.",
-      "preco": "R$ 49,99",
-      "lancamento": "2025-07-01",
-      "especificacoes": [
-        "Requer Windows 7 ou superior",
-        "4GB de RAM",
-        "DirectX 10"
-      ],
-      "funcionalidades": [
-        "Modo Co-op",
-        "Jogabilidade de exploração"
-      ],
-      "instalado": false,
-      "caminhoExecutavel": ""
-    },
-       {
-      "nome": "Grand Theft Auto V",
-      "imagem": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lbd.jpg",
-      "descricao": "É O GTAAAA MERMÃO.",
-      "preco": "R$ 49,99",
-      "lancamento": "2025-07-01",
-      "especificacoes": [
-        "Requer Windows 7 ou superior",
-        "4GB de RAM",
-        "DirectX 10"
-      ],
-      "funcionalidades": [
-        "Modo Co-op",
-        "Jogabilidade de exploração"
-      ],
-      "instalado": false,
-      "caminhoExecutavel": ""
-    },
-     {
-      "nome": "Marvel's Spider-Man 2",
-      "imagem": "https://images.igdb.com/igdb/image/upload/t_cover_big/co79vq.jpg",
-      "descricao": "spiderman 2 conta hitoria de tal tal tal.",
-      "preco": "R$ 49,99",
-      "lancamento": "2025-07-01",
-      "especificacoes": [
-        "Requer Windows 7 ou superior",
-        "4GB de RAM",
-        "DirectX 10"
-      ],
-      "funcionalidades": [
-        "Modo Co-op",
-        "Jogabilidade de exploração"
-      ],
-      "instalado": false,
-      "caminhoExecutavel": ""
-    },
-    {
             "Nome": "Black",
             "Descrição": "Black takes place in Chechnya (Southern Russia). The protagonist is a black ops soldier named Sergeant First Class Jack Kellar (portrayed by Marty Papazian). Kellar tells most of the story in first-person at an interrogation four days after the events in the story begin.\n\nKellar is an inadequately disciplined member of a CIA black ops group and a veteran of several conflicts including Guatemala, Colombia, Iran and Croatia. The unknown interrogator (portrayed by Paul Pape) questions Kellar about an arms smuggling and terrorist operation called the Seventh Wave. Seventh Wave have been responsible for a number of terrorist attacks. Kellar is told that, unless he co-operates, he and his actions will be declassified, he will be dishonorably discharged and imprisoned for life. Though initially resistant, Kellar at last agrees to tell his story.",
             "Data de Lançamento": "24/02/2006",
@@ -184,24 +94,5 @@
             ],
             "instalado": false,
             "caminhoExecutavel": ""
-        },
-    {
-      "nome": "Fretless - The Wrath of Riffson",
-      "imagem": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa50q.jpg",
-      "descricao": "Uma aventura no espaço onde você desbrava planetas.",
-      "preco": "R$ 49,99",
-      "lancamento": "2025-07-01",
-      "especificacoes": [
-        "Requer Windows 7 ou superior",
-        "4GB de RAM",
-        "DirectX 10"
-      ],
-      "funcionalidades": [
-        "Modo Co-op",
-        "Jogabilidade de exploração"
-      ],
-      "instalado": false,
-      "caminhoExecutavel": ""
-    }
-  ]
+        }
 }
