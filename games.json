@@ -402,7 +402,61 @@
             ],
             "instalado": false,
             "caminhoExecutavel": ""
-        }
+        },
+    {
+            "nome": "Monument Valley III",
+            "descricao": "Begin a thrilling new voyage into an enchanting puzzle world. Navigate optical illusions to bring together a village and guide them to a new home.\n\nSet sail for adventure in this new installment of the award-winning Monument Valley game series, exploring an expansive and beautiful world of puzzles. When an apprentice lightkeeper named Noor discovers that the world's light is fading — and waters rising — she must go on a quest to find a new source of power before her community is lost to the waves forever.",
+            "dataDeLancamento": "10/12/2024",
+            "capa": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8v8p.jpg",
+            "capturasDeTela": [
+                "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoq7.jpg",
+                "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoq8.jpg",
+                "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoq9.jpg",
+                "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctoqa.jpg"
+            ],
+            "videoEmbed": "https://www.youtube.com/embed/QcpzdbyTF6E?autoplay=1&mute=1&loop=1",
+            "plataformas": [
+                "Xbox Series X|S",
+                "PlayStation 4",
+                "Android",
+                "PC (Microsoft Windows)",
+                "iOS",
+                "PlayStation 5",
+                "Xbox One",
+                "Nintendo Switch"
+            ],
+            "generos": [
+                "Puzzle",
+                "Strategy",
+                "Adventure",
+                "Indie"
+            ],
+            "modosDeJogo": [
+                "Single player"
+            ],
+            "desenvolvedores": [
+                "Ustwo Games"
+            ],
+            "editoras": [
+                "Netflix"
+            ],
+            "avaliacaoCritica": null,
+            "numeroDeCriticas": null,
+            "avaliacaoUsuario": null,
+            "numeroDeVotos": null,
+            "perspectivas": [
+                "Third person"
+            ],
+            "keywords": [
+                "netflix",
+                "previously on - netflix"
+            ],
+            "temas": [
+                "Fantasy"
+            ],
+            "instalado": false,
+            "caminhoExecutavel": ""
+        }    
   ]
 }
 
