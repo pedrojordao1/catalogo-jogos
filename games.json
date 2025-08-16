@@ -554,6 +554,43 @@
             ],
             "instalado": false,
             "caminhoExecutavel": ""
+        },
+      {
+            "nome": "Church Simulator",
+            "descricao": "Manage your own church. Perform baptisms, hear confessions, collect donations, oversee weddings and funerals, sell souvenirs, and customize your church. Manage the church’s economy and work to expand your church.",
+            "dataDeLancamento": "12/08/2025",
+            "capa": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8oji.jpg",
+            "capturasDeTela": [
+                "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctkj5.jpg",
+                "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctkjb.jpg",
+                "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctkj8.jpg",
+                "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctkj9.jpg",
+                "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctkj4.jpg"
+            ],
+            "videoEmbed": null,
+            "plataformas": [
+                "PC (Microsoft Windows)"
+            ],
+            "generos": [
+                "Simulator",
+                "Indie"
+            ],
+            "modosDeJogo": [
+                "Single player"
+            ],
+            "desenvolvedores": [],
+            "editoras": [],
+            "avaliacaoCritica": null,
+            "numeroDeCriticas": null,
+            "avaliacaoUsuario": null,
+            "numeroDeVotos": null,
+            "perspectivas": [
+                "First person"
+            ],
+            "keywords": [],
+            "temas": [],
+            "instalado": false,
+            "caminhoExecutavel": ""
         }
   ]
 }
