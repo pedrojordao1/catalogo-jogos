@@ -592,43 +592,6 @@
             "instalado": false,
             "caminhoExecutavel": ""
         },
-      {
-            "nome": "Witch Way",
-            "descricao": "A dark witch imprisoned by the Church is forced to turn against her own kind, seeking the most chaotic power within the constraints of trust. This is not just a battle against enemies in action, but also requires a strategic and panoramic vision.",
-            "dataDeLancamento": "17/07/2025",
-            "capa": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8m8v.jpg",
-            "capturasDeTela": [
-                "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctgc7.jpg",
-                "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctgc8.jpg",
-                "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctgca.jpg",
-                "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctgch.jpg",
-                "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctgcj.jpg"
-            ],
-            "videoEmbed": null,
-            "plataformas": [
-                "PC (Microsoft Windows)"
-            ],
-            "generos": [
-                "Strategy",
-                "Indie"
-            ],
-            "modosDeJogo": [
-                "Single player"
-            ],
-            "desenvolvedores": [],
-            "editoras": [],
-            "avaliacaoCritica": null,
-            "numeroDeCriticas": null,
-            "avaliacaoUsuario": null,
-            "numeroDeVotos": null,
-            "perspectivas": [],
-            "keywords": [
-                "ai-generated artwork"
-            ],
-            "temas": [],
-            "instalado": false,
-            "caminhoExecutavel": ""
-        }
   ]
 }
 
