@@ -513,6 +513,47 @@
             ],
             "instalado": false,
             "caminhoExecutavel": ""
+        },
+    {
+            "nome": "Shields of Loyalty",
+            "descricao": "Experience tactically challenging turn-based strategy in the hostile island world of Mantaria. Command a dynamic army of various unit types and classes to slay a dark and possessed undead army. Train forces into powerful warriors and fight fervently until the snake's head is at your feet!",
+            "dataDeLancamento": "18/03/2021",
+            "capa": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9c41.jpg",
+            "capturasDeTela": [
+                "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scb97g.jpg",
+                "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scb97j.jpg",
+                "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scb97h.jpg",
+                "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scb97l.jpg"
+            ],
+            "videoEmbed": "https://www.youtube.com/embed/PUuO6O8TERs?autoplay=1&mute=1&loop=1",
+            "plataformas": [
+                "PC (Microsoft Windows)"
+            ],
+            "generos": [
+                "Strategy",
+                "Indie"
+            ],
+            "modosDeJogo": [
+                "Single player"
+            ],
+            "desenvolvedores": [
+                "Mosaic Mask Studio"
+            ],
+            "editoras": [
+                "Mosaic Mask Studio",
+                "indie.io"
+            ],
+            "avaliacaoCritica": null,
+            "numeroDeCriticas": null,
+            "avaliacaoUsuario": null,
+            "numeroDeVotos": null,
+            "perspectivas": [],
+            "keywords": [],
+            "temas": [
+                "Action"
+            ],
+            "instalado": false,
+            "caminhoExecutavel": ""
         }
   ]
 }
