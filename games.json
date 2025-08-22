@@ -590,6 +590,82 @@
             "temas": [],
             "instalado": false,
             "caminhoExecutavel": ""
+        },
+    {
+            "nome": "Need for Speed: Underground 2",
+            "descricao": "Need For Speed Underground 2 takes place in Bayview after the events of Need for Speed: Underground. The prologue begins with the player driving in a Nissan Skyline R34 in Olympic City (though the racing scenes are actually in Bayview), the setting of NFS:UG. He then receives a race challenge from a rather ominous personality who offers him a spot on his crew, but \"won't take 'no' for an answer.\" The player races off — despite Samantha's warnings — only to be ambushed by a mysterious driver in a rage that totals his Skyline. The driver, who has a unique scythe tattoo, makes a call confirming the accident, and the flashback fades out.",
+            "dataDeLancamento": "09/11/2004",
+            "capa": "https://images.igdb.com/igdb/image/upload/t_cover_big/co209h.jpg",
+            "capturasDeTela": [
+                "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ut7hcwupmq1t28ns7m7t.jpg",
+                "https://images.igdb.com/igdb/image/upload/t_screenshot_med/r7qbyuljvm4smf3lrkwm.jpg",
+                "https://images.igdb.com/igdb/image/upload/t_screenshot_med/qioedqox1zjust40svpy.jpg",
+                "https://images.igdb.com/igdb/image/upload/t_screenshot_med/pvmu0hygmcfdzkjqvy0c.jpg"
+            ],
+            "videoEmbed": "https://www.youtube.com/embed/Xl38fecVFzU?autoplay=1&mute=1&loop=1",
+            "plataformas": [
+                "Xbox",
+                "Nintendo GameCube",
+                "PC (Microsoft Windows)",
+                "PlayStation 2"
+            ],
+            "generos": [
+                "Racing"
+            ],
+            "modosDeJogo": [
+                "Single player",
+                "Multiplayer",
+                "Split screen"
+            ],
+            "desenvolvedores": [
+                "EA Black Box"
+            ],
+            "editoras": [
+                "Electronic Arts"
+            ],
+            "avaliacaoCritica": 78.5,
+            "numeroDeCriticas": 3,
+            "avaliacaoUsuario": 83.53910162607357,
+            "numeroDeVotos": 784,
+            "perspectivas": [
+                "First person",
+                "Third person"
+            ],
+            "keywords": [
+                "burnout",
+                "street racing",
+                "online",
+                "drifting",
+                "motorsports",
+                "split-screen multiplayer",
+                "language selection",
+                "human",
+                "polygonal 3d",
+                "licensed soundtrack",
+                "unlockables",
+                "motion blur",
+                "non-player character",
+                "vehicle customization",
+                "xbox live",
+                "licensed cars",
+                "dolby digital",
+                "voice chat",
+                "comic book cutscene",
+                "in-game advertising",
+                "arcade driving physics",
+                "sports cars",
+                "product placement",
+                "greatest hits",
+                "dead multiplayer",
+                "re-numbered franchise",
+                "cinematic jump",
+                "xbox 360 backwards compatibility"
+            ],
+            "temas": [
+                "Action"
+            ],
+            "instalado": false,
+            "caminhoExecutavel": ""
         }
   ]
 }
