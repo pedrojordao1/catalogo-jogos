@@ -666,6 +666,95 @@
             ],
             "instalado": false,
             "caminhoExecutavel": ""
+        },
+    {
+            "nome": "Hollow Knight",
+            "descricao": "A 2D metroidvania with an emphasis on close combat and exploration in which the player enters the once-prosperous now-bleak insect kingdom of Hallownest, travels through its various districts, meets friendly inhabitants, fights hostile ones and uncovers the kingdom's history while improving their combat abilities and movement arsenal by fighting bosses and accessing out-of-the-way areas.",
+            "dataDeLancamento": "24/02/2017",
+            "capa": "https://images.igdb.com/igdb/image/upload/t_cover_big/co93cr.jpg",
+            "capturasDeTela": [
+                "https://images.igdb.com/igdb/image/upload/t_screenshot_med/p3svrq6ewzxnn7p1a3v9.jpg",
+                "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ityinxmtkakwbokpcwws.jpg",
+                "https://images.igdb.com/igdb/image/upload/t_screenshot_med/bkgxmg2m4h8wf5g9tblh.jpg",
+                "https://images.igdb.com/igdb/image/upload/t_screenshot_med/a3f72xprqkfuqdmha5ks.jpg"
+            ],
+            "videoEmbed": "https://www.youtube.com/embed/BzvlMtvaJ8I?autoplay=1&mute=1&loop=1",
+            "plataformas": [
+                "PlayStation 4",
+                "Linux",
+                "PC (Microsoft Windows)",
+                "Mac",
+                "Wii U",
+                "Xbox One",
+                "Nintendo Switch"
+            ],
+            "generos": [
+                "Platform",
+                "Adventure",
+                "Indie"
+            ],
+            "modosDeJogo": [
+                "Single player"
+            ],
+            "desenvolvedores": [
+                "Team Cherry"
+            ],
+            "editoras": [
+                "Team Cherry"
+            ],
+            "avaliacaoCritica": 91.25,
+            "numeroDeCriticas": 8,
+            "avaliacaoUsuario": 92.05926007997412,
+            "numeroDeVotos": 1760,
+            "perspectivas": [
+                "Side view"
+            ],
+            "keywords": [
+                "dark",
+                "sword",
+                "skill-based",
+                "2d",
+                "metroidvania",
+                "insects",
+                "action-adventure",
+                "steam",
+                "achievements",
+                "steam trading cards",
+                "explorable world",
+                "atmospheric",
+                "giant insects",
+                "silent protagonist",
+                "crowdfunding - kickstarter",
+                "hand-drawn",
+                "crowdfunding",
+                "2d platformer",
+                "boss fight",
+                "steam achievements",
+                "xbox controller support for pc",
+                "controller recommendation",
+                "crowd funded",
+                "shielded enemies",
+                "parrying",
+                "merchants",
+                "fast traveling",
+                "creature compendium",
+                "the game awards 2017",
+                "best debut indie game: nominee - 2017 (the game awards)",
+                "the game awards - nominee",
+                "controller support",
+                "the game awards - best debut indie game - nominee",
+                "interconnected-world",
+                "armed bugs",
+                "money",
+                "shop keeper",
+                "sidescroller"
+            ],
+            "temas": [
+                "Action",
+                "Fantasy"
+            ],
+            "instalado": false,
+            "caminhoExecutavel": ""
         }
   ]
 }
